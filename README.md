@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile! 👋
+## Hi there 👋
 
-Hello! I'm **Emir Kısa** – a software engineer, AI enthusiast, and student passionate about AI, mathematics, philosophy, and **habits**!
+I'm **Emir Kısa** – a software engineer, AI enthusiast, and student passionate about AI, mathematics, philosophy, and **habits**!
 
 ---
 
