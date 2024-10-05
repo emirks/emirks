@@ -38,6 +38,7 @@ If you're passionate about building **Atomic Habits** and would like to be part 
 - **Philosophy & Personal Growth**: Deep discussions on life and purpose.
 - **Habit Formation**: Building systems for productivity.
 - **AI in Recruitment**: Creating smarter candidate evaluation systems.
+- **Dumb Phone**: I’m working on a minimalist, 'dumb phone' setup for my iPhone to minimize distractions. 
 
 ---
 
@@ -45,13 +46,3 @@ If you're passionate about building **Atomic Habits** and would like to be part 
 
 - [LinkedIn](https://www.linkedin.com/in/emir-k%C4%B1sa/)
 - [Email](mailto:emirks88@gmail.com)
-
----
-
-### 💬 Fun Fact:
-
-I’m working on a minimalist, 'dumb phone' setup for my iPhone to minimize distractions. 
-
----
-
-Let's build something amazing together!
