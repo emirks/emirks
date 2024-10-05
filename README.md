@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello! I'm **Emir Kısa** a software engineer, AI enthusiast, and a student. I love working on cutting-edge AI technologies, habit-tracking systems, and engaging in deep conversations on philosophy. 
+Hello! I'm **Emir Kısa** – a software engineer, AI enthusiast, and student passionate about AI, mathematics, philosophy, and **habits**!
 
 ---
 
@@ -13,40 +13,38 @@ If you're passionate about building **Atomic Habits** and would like to be part 
 
 ---
 
-### 🌱 What I'm Currently Working On:
+### 🌱 Current Projects:
 
-- **Molecular Momentum**: A Discord bot project inspired by **Atomic Habits**, helping users build and maintain productive habits through public declarations and habit tracking within 8-person groups.
-- **AI Recruitment Software**: Developing a comprehensive AI-based recruitment system that makes a comprehensive evaluation of candidates for job openings.
-- **CarPlay Project**: Designing a system using **ESP32** to connect my phone to my car via Bluetooth and Wi-Fi, enabling **Apple CarPlay**.
+- **Molecular Momentum**: A Discord bot for habit-tracking based on **Atomic Habits**.
+- **AI Recruitment**: Developing AI to assess candidates for job openings.
+- **CarPlay Project**: Connecting my phone to my car using **ESP32** for **Apple CarPlay**.
 
 ---
 
-### ⚙️ Technical Interests & Tools:
+### ⚙️ Tech & Tools:
 
-- **Languages**: Python (AI, automation), JavaScript (React, Vite), C/C++ (Embedded, IoT)
-- **AI & Machine Learning**: Neural Networks, CNNs (YOLO, ResNet), Transformers (BERT, GPT), Scikit-learn (classical ML)
-- **NLP**: Text analysis, sentiment analysis, embeddings (BERT, GPT), semantic search
-- **DevOps & Cloud**: Docker, DigitalOcean, Render
-- **Web Development**: React, Vite (front-end), Flask, FastAPI (back-end)
-- **Databases**: SQLite, PostgreSQL
-- **Embedded Systems**: ESP32, Raspberry Pi (IoT projects)
+- **Languages**: Python, C/C++
+- **AI/ML**: Neural Networks, CNNs, Transformers, Scikit-learn
+- **NLP**: Text analysis, embeddings (BERT, GPT)
+- **DevOps**: Docker, DigitalOcean, Render
+- **Web Dev**: Flask, FastAPI
+- **Embedded**: ESP32, Raspberry Pi
 
 ---
 
 ### 🧠 Exploring:
 
-- **Mathematics**: A deep love for mathematics, exploring its beauty and applications in AI, machine learning, and data science.
-- **Philosophy & Personal Growth**: Engaging in meaningful discussions life, purpose and career development.
-- **Habit Formation**: Implementing habit-building techniques for personal productivity and tech projects.
-- **AI in Recruitment**: Innovating AI-driven systems for candidate evaluation in recruitment processes.
-
+- **Mathematics**: A love for its beauty and AI applications.
+- **Philosophy & Personal Growth**: Deep discussions on life and purpose.
+- **Habit Formation**: Building systems for productivity.
+- **AI in Recruitment**: Creating smarter candidate evaluation systems.
 
 ---
 
-### 📫 Let's Connect:
+### 📫 Connect with Me:
 
-- **LinkedIn**: [Your LinkedIn URL](https://www.linkedin.com/in/emir-k%C4%B1sa/)
-- **Email**: [emirks88@gmail.com](mailto:emirks88@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/emir-k%C4%B1sa/)
+- [Email](mailto:emirks88@gmail.com)
 
 ---
 
