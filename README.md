@@ -10,6 +10,7 @@ If you're passionate about building **Atomic Habits** and would like to be part 
 
 [![Join Molecular Momentum Discord](https://img.shields.io/badge/Discord-Molecular%20Momentum-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/Mtxa35wD5V)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Molecular%20Momentum-181717?style=for-the-badge&logo=github)](https://github.com/emirks/maestro-habit-tracker)
 
 ---
 
