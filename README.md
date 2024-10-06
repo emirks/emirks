@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Emir Kısa** – a software engineer, AI enthusiast, and student passionate about AI, mathematics, philosophy, and **habits**!
+I'm **Emir Kısa** – a software engineer, AI enthusiast, and student passionate about **mathematics**, **philosophy**, **music**, and **habits**!
 
 ---
 
