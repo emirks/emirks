@@ -18,7 +18,7 @@ If you're passionate about building **Atomic Habits** and would like to be part 
 
 - **Molecular Momentum**: A Discord bot for habit-tracking based on **Atomic Habits**.
 - **AI Recruitment**: Developing AI to assess candidates for job openings.
-- **CarPlay Project**: Connecting my phone to my car using **ESP32** for **Apple CarPlay**.
+- **CarPlay Project**: Connecting my phone to my car using **ESP32** for **Apple CarPlay**. *Currently experimenting with RPi5
 
 ---
 
