@@ -24,22 +24,10 @@ If you're passionate about building **Atomic Habits** and would like to be part 
 
 ### ⚙️ Tech & Tools:
 
-- **Languages**: Python, C/C++
-- **AI/ML**: Neural Networks, CNNs, Transformers, Scikit-learn
-- **NLP**: Text analysis, embeddings (BERT, GPT)
-- **DevOps**: Docker, DigitalOcean, Render
-- **Web Dev**: Flask, FastAPI
+- **Languages**: Python, C++
+- **AI/ML**: Neural Networks, CNNs, Transformers, Embedding Models
+- **DevOps**: Docker, DigitalOcean, Render (deployed a few projects)
 - **Embedded**: ESP32, Raspberry Pi
-
----
-
-### 🧠 Exploring:
-
-- **Mathematics**: A love for its beauty and AI applications.
-- **Philosophy & Personal Growth**: Deep discussions on life and purpose.
-- **Habit Formation**: Building systems for productivity.
-- **AI in Recruitment**: Creating smarter candidate evaluation systems.
-- **Dumb Phone**: I’m working on a minimalist, 'dumb phone' setup for my iPhone to minimize distractions. 
 
 ---
 
