@@ -22,15 +22,6 @@ If you're passionate about building **Atomic Habits** and would like to be part 
 
 ---
 
-### ⚙️ Tech & Tools:
-
-- **Languages**: Python, C++
-- **AI/ML**: Neural Networks, CNNs, Transformers, Embedding Models
-- **DevOps**: Docker, DigitalOcean, Render (deployed a few projects)
-- **Embedded**: ESP32, Raspberry Pi
-
----
-
 ### 📫 Connect with Me:
 
 - [LinkedIn](https://www.linkedin.com/in/emir-k%C4%B1sa/)
