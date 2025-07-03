@@ -8,7 +8,7 @@ A great 🤍 for CS, AI, Math, Philosophy, Music, and being Human
 🛠 Currently building: voice assistants, habit systems, and NLP tools  
 📚 Lifelong learner | Startup builder | Systems thinker
 
-[📫 Say hi on LinkedIn](https://www.linkedin.com/in/emirkisa) • [📧 emirks88@gmail.com](mailto:emirks88@gmail.com)
+[🌐 emirkisa.com](https://www.emirkisa.com) • [📫 Say hi on LinkedIn](https://www.linkedin.com/in/emirkisa) • [📧 emirks88@gmail.com](mailto:emirks88@gmail.com)
 
 ---
 
