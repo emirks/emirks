@@ -4,7 +4,7 @@ I like CS, AI, Math, Philosophy, Music, and being Human.
 Trying to find the right place to diffuse and the right guidance force. (DDPM of Emir)
 
 Hobby Projects:
-- **Molecular Momentum (dc, mobile):** We create habits, track them, and kick people that are not tracking.
+- **Molecular Momentum (dc, mobile):** We create habits, track them, and kindly remove people that are not tracking.
 
 Mid Projects:
 - **SStajyer:** AI in Law. For any official law case: auto-find preliminary decisions, analyze all the docs attached, generate petitions, and **manage the whole cycle**.
