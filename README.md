@@ -24,7 +24,7 @@ High Level Projects:
 
 ### Molecular Momentum Invitation
 
-If you're committed (we kick after 3 weeks of failure) to building **habits**, join our Discord:
+If you're committed (we kindly remove after 3 weeks of failure) to building **habits**, join our Discord:
 
 [![Molecular Momentum Discord](https://img.shields.io/badge/Discord-Molecular%20Momentum-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/Mtxa35wD5V)
 
