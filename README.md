@@ -1,7 +1,7 @@
 ### I'm Emir
-I like CS, AI, Math, Philosophy, Music, and being Human.
+I like Math, CS, AI, Philosophy, Music, and being Human.
 
-Trying to find the right place to diffuse and the right guidance force. (DDPM of Emir)
+Trying to find the right places to diffuse and the right guidance force. _(Guided Diffusion of Emir)_
 
 Hobby Projects:
 - **Molecular Momentum (dc, mobile):** We create habits, track them, and kindly remove people that are not tracking.
@@ -13,8 +13,8 @@ Mid Projects:
 
 
 High Level Projects:
-- **Semantic Segmentation Architecture Design:** Designed a Semantic Segmentation Architecture Manually.
-- **Ensi Smart Home**: The smartest Smart Home Voice Assistant. LLM level reasoning, 2 second response time.
+- **Semantic Segmentation Architecture Design:** Designed a Semantic Segmentation Architecture Manually. 
+- **Ensi Smart Home**: The smartest Smart Home Voice Assistant. LLM level reasoning, 2-sec response time. **_(Raised $250K)_**
 - **EMA**: Interactive Shopping Assistant. Shop with Voice.
 - **Post-Earthquake AI Mapping Using Military UAV Data**: Modified the architecture of YOLOv5 model. Applied manual Cross-Attention for small objects. Increased performance by 8%.
 
