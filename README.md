@@ -5,8 +5,7 @@ Trying to find the right places to diffuse and the right guidance force. _(Guide
 ---
 
 Hobby Projects:
-- **Molecular Momentum (dc, mobile):** We create habits, track them, and kindly remove people that are not tracking. [github](https://github.com/emirks/maestro-habit-tracker)
-- **Discord Habit Bot:** Checks our habits every Saturday. Kicks after 3 weeks of failure. [github](https://github.com/emirks/maestro-habit-tracker)
+- **Molecular Momentum (dc, mobile):** We create habits, check them every Saturday, and kindly remove people that are not tracking. [github](https://github.com/emirks/maestro-habit-tracker)
 - **Configurable MC Bots:** A configurable MC bot framework built on mineflayer api. [github](https://github.com/emirks/mineflayer-bots)
 - **Deep Ocean:** Electron app that lets you have control on tech you have. Work in the Deep Ocean. [github](https://github.com/emirks/deep-ocean)
 - **Werewolf Party:** Realtime AI players via Pipecat + LiveKit to fill in when we're short on friend count. [github](https://github.com/emirks/werewolf_arena)
